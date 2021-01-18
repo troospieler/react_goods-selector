@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,QACE,aAAgB,CAChB,qBAAyB,CACzB,iBAAkB,CACnB,gBAGC,WAAY","file":"main.aaab082f.chunk.css","sourcesContent":[".yellow {\n  color: darkkhaki;\n  border: 2px solid fuchsia;\n  border-radius: 2px;\n}\n\n.product-button {\n  margin: 10px;\n}\n"]}
